@@ -1,0 +1,9 @@
+{
+  "_comment": "Cole em .vscode/mcp.json (workspace) OU Command Palette: 'MCP: Add Server' → HTTP → cole https://api.mcp.ai/p_contas_enel_rj_download_ocr.",
+  "servers": {
+    "contas_enel_rj_download_ocr": {
+      "type": "http",
+      "url": "https://api.mcp.ai/p_contas_enel_rj_download_ocr"
+    }
+  }
+}
